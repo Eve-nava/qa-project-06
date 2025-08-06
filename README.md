@@ -32,8 +32,7 @@ qa-project-06/
 ├── README.md # Documentación del proyecto
 └── .gitignore # Archivos excluidos del repositorio
 
-yaml
-Copiar código
+
 
 ---
 
@@ -57,12 +56,11 @@ Copiar código
 
 1. Asegúrate de tener `pytest` y `requests` instalados:
 
-```bash
+
 pip install pytest requests
 Ejecuta las pruebas desde la terminal (estando dentro del proyecto):
 
-bash
-Copiar código
+
 pytest create_kit_name_kit_test.py
 Los resultados mostrarán cuántas pruebas pasaron y cuántas fallaron.
 
